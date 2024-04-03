@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{ 
+  background-color: #ed719e;
+}
+
+h1{
+  font-family: "Cormorant Infant", serif;
+  color: #000000;
+}
+
+h2{
+  font-family: "Times New Roman", Times, serif;
+    color: #61177c;
+}
+
+h3{
+  font-family: "Times New Roman", Times, serif;
+  color: #942192;
+}
+
+.text{
+  color:#000000; 
+}
+
+img{
+  height: 500px;
+  width: 400px;
+}
